@@ -20,6 +20,7 @@ def mostrar_resultado(promedio):
         print("✅¡Aprobaste!")  
     else:
         print("❌ No aprobaste. ¡Sigue intentando!")
+        print("Nueva linea")
         
 def main():
     print("=== Calculadora de Promedio ===")
